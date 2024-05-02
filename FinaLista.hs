@@ -1,0 +1,1 @@
+finales n arreglo = drop (length arreglo - n) arreglo
